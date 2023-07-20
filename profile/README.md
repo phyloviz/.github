@@ -1,4 +1,4 @@
-<img  align="left" src="logo.png" alt="PHYLOViZ logo" width="180">
+<img  align="left" src="logo.png" alt="PHYLOViZ logo" width="150">
 
 ### PHYLOViZ 🧬
 
